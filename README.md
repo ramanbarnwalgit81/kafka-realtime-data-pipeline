@@ -349,12 +349,6 @@ kafka-console-consumer --topic test-topic --from-beginning --bootstrap-server lo
 
 ---
 
-## 📄 License
-
-[Add your license information here]
-
----
-
 <div align="center">
 
 *Built with Apache Kafka · Spark Structured Streaming · MongoDB · Streamlit*
